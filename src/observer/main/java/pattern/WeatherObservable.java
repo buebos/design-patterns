@@ -7,7 +7,7 @@ public interface WeatherObservable {
 
     public WeatherObserver attachObserver(WeatherObserver observer);
 
-    public Boolean detachObserver(WeatherObserver observer);
+    public void detachObserver(WeatherObserver observer);
 
     public void notifyObservers();
 }
