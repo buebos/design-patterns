@@ -1,3 +1,4 @@
 {
-    "java.project.outputPath": "./build"
+    "java.project.outputPath": "./build",
+    "java.autobuild.enabled": true
 }

@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "absfactory.main.java.Main",
+            "projectName": "design-patterns_33d5a8dd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "factory.main.java.Main",
+            "projectName": "design-patterns_33d5a8dd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "design-patterns_33d5a8dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "console": "internalConsole"
+        }
+    ]
+}
