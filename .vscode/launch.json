@@ -5,6 +5,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "singleton.main.java.Main",
+            "projectName": "design-patterns_33d5a8dd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "absfactory.main.java.Main",
             "projectName": "design-patterns_33d5a8dd"
         },
