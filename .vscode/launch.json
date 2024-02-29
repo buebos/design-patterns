@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoteControl",
+            "request": "launch",
+            "mainClass": "command.main.java.RemoteControl",
+            "projectName": "design-patterns_33d5a8dd"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "singleton.main.java.Main",
